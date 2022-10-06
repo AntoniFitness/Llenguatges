@@ -1,1 +1,1 @@
-print "Hola, Ramis!\n"
+print "Hola menorca!\n"

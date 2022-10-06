@@ -1,3 +1,3 @@
 <%
-    HelloWorldLabel.Text = "Hola, Ramis!";
+    HelloWorldLabel.Text = "Hola menorca";
 %>
